@@ -5,3 +5,4 @@
 # Menu2File.py
   从Cuckoo生成的目录中提取report.json文件
 # 环境搭建
+  在机器上ttcuckoo目录下CONF文件夹有相关设置
